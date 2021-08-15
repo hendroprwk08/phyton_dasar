@@ -1,0 +1,1 @@
+#Record / Tuple adalah kumpulan elemen data yang dikumpulkan menjadi satu kesatuan dengan tipe data. sama ataupun berbeda dan yang saling berkaitan menginformasikan tentang suatu entitas secara lengkap.
